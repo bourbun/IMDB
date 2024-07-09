@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="META-INF" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/../../META-INF" />
+        <item url="file://$PROJECT_DIR$/../../org" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../META-INF" />
+      <root url="file://$PROJECT_DIR$/../../org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
